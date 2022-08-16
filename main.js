@@ -32,16 +32,16 @@ console.log(color, name, vitesse);
 // commmentaire test 
 
 function calculatrice (signe, a, b){
-    if(signe=="addition"){
+    if(signe == "+"){
         return a + b;
     }
-    if (signe=="soustraction"){
+    if (signe == "-"){
         return a - b;
     }
-    if(signe=="division"){
+    if(signe=="/"){
         return a / b;
     }
-    if(signe=="multiplication"){
+    if(signe=="*"){
         return a * b;
     }
     console.log(calculatrice());
