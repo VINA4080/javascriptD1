@@ -31,14 +31,17 @@ console.log(color, name, vitesse);
 //}
 
 function calculatrice (signe, a, b){
-    if("signe==addition"){
+    if(signe=="addition"){
         return a + b;
     }
-    if ("signe==soustraction"){
+    if (signe=="soustraction"){
         return a - b;
     }
-    if("sign==division"){
+    if(signe=="division"){
         return a / b;
+    }
+    if(signe=="multiplication"){
+        return a * b;
     }
     console.log(calculatrice());
 }
