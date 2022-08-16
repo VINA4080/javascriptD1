@@ -29,6 +29,7 @@ console.log(color, name, vitesse);
 // if("blue" == "red"){
 // console.log()
 //}
+// commmentaire test 
 
 function calculatrice (signe, a, b){
     if(signe=="addition"){
