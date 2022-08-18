@@ -49,7 +49,7 @@ console.log(color, name, vitesse);
 
 // var i = 0;
 
-// ------------------------------DO WHILE & SWITCH-------------------------&
+// ------------------------------DO WHILE & SWITCH-------------------------
 
 // do {
 //     i++;
@@ -81,7 +81,7 @@ console.log(color, name, vitesse);
 //         break;
 // }
 
-// --------------------------------Tableau-------------------------------------
+// --------------------------------Tableau-------------------------------------&
 // length = taille du tableau
 // pop = effacer le dernier
 // shift = effacer le debut
