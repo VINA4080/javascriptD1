@@ -108,7 +108,7 @@ console.log(color, name, vitesse);
 //     console.log(nom);
 //     console.log(nom.pop());
 
-// var nom = ['Vina' , 'Lala' , 'Rasoa' , 'Koto']; àààà
+// var nom = ['Vina' , 'Lala' , 'Rasoa' , 'Koto'];
 //     nom.shift();
 // console.log(nom);
 
